@@ -1,2 +1,2 @@
 # Projeto-Bootstrap---Alura
-Projeto feito durante curso de Bootstrap da Alura
+Site de uma cafeteria feito seguindo as instruções do curso da alura
